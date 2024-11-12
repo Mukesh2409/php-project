@@ -41,4 +41,4 @@ CREATE TABLE `contacts` (
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at lagauitsaid@hotmail.com.
+
